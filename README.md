@@ -1,8 +1,9 @@
 Alina.git.io
 <!DOCTYPE html>
 <html>
-<title> Alina Nitedthunyakij 
-</title>
+<Head> 
+    Alina Nitedthunyakij 
+</Head>
 <h1><strong>Biography</strong>
 </h1>
 <img src="https://acrobat.adobe.com/id/urn:aaid:sc:US:58d1c8d0-4264-4afd-8841-85030d27c8ba"></img> 
